@@ -10,7 +10,7 @@ import java.util.*
 /**
  * Created by Adam Van Hine on 12/28/2016.
  *
- * The service that will handle all Quick Settings Tile events.
+ * The service that will handle all Quick Settings Tile events. Ok
  */
 class QuickDiceService : TileService() {
 
@@ -37,7 +37,7 @@ class QuickDiceService : TileService() {
 
     fun rollDice(): Int {
         val rand = Random()
-        var faces = 6
+        val faces = 6
 
         return 1 + rand.nextInt(faces)
     }
