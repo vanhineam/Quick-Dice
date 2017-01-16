@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quick Dice</string>
+    <string name="tile_label">Quick Dice</string>
+    <string name="service_active">Rolling</string>
+    <string name="service_inactive">Please Roll</string>
+    <string name="you_rolled">You rolled a</string>
+</resources>
