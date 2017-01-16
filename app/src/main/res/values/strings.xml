@@ -4,4 +4,6 @@
     <string name="service_active">Rolling</string>
     <string name="service_inactive">Please Roll</string>
     <string name="you_rolled">You rolled a</string>
+    <string name="number_of_sides">Number of Sides?</string>
+    <string name="confirm">Confirm</string>
 </resources>
